@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcRadioButton</string>
+    <string name="txt_valor1_string">Primer Valor</string>
+    <string name="txt_valor2_string">Segundo Valor</string>
+    <string name="btn_calc">CALCULAR</string>
+    <string name="rb1">sumar</string>
+    <string name="rb2">restar</string>
+    <string name="rb3">multiplicar</string>
+    <string name="rb4">dividir</string>
+    <string name="txt_result">Resultado</string>
+    <string name="title">Calculadora basica :)</string>
+</resources>
